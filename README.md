@@ -1,7 +1,12 @@
 ## Hi there 👋
-
 <!--
-**katleyq/katleyq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+My name is Kat Le (they/she). I'm an environmental data scientist with years of training in research and education information technology. I am currently working towards my Master of Environmental Data Science degree with the Bren School of Environmental Science & Management at the University of California, Santa Barbara. My primary focus is solving complex environmental problems by leveraging data science, and I’m passionate about mentoring others to grow their skills and make a difference in this space.
+
+edit rest of draft on google docs
+
+-->
+<!--
 
 Here are some ideas to get you started:
 
