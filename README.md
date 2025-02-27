@@ -13,6 +13,6 @@ In my free time, I like to play basketball 🏀, craft 🎨, and cook 🧑‍�
 
 
 ### Getting in touch
-🤝 If you'd like to connect, please feel free to email me at kat@bren.ucsb.edu.
+🤝 If you'd like to connect, please feel free to email me at katherinele@bren.ucsb.edu.
 
 
