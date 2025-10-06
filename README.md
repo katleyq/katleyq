@@ -1,6 +1,6 @@
 
 ## Hello, hello! 👋
-My name is Kat Le (they/she). I'm an environmental data scientist with years of training in research and education information technology. I am currently finishing my Master of Environmental Data Science degree at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. My primary focus is solving complex environmental problems by leveraging data science, and I’m passionate about mentoring others to grow their skills and make an impact in this space.
+My name is Kat Le (they/she). I'm an environmental data scientist with years of training in research and education information technology. I earned my Master of Environmental Data Science degree at the Bren School of Environmental Science & Management at the University of California, Santa Barbara. My primary focus is solving complex environmental problems by leveraging data science, and I’m passionate about mentoring others to grow their skills and make an impact in this space.
 
 
 ### About Me
